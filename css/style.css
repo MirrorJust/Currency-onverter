@@ -1,0 +1,12 @@
+form {
+    width: 500px;
+}
+
+
+.result-paragraph {
+    margin-top: 50px;
+    padding: 30px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+}
+
